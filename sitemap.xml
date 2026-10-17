@@ -4,7 +4,7 @@
   <url><loc>https://nadocampus.co.kr/schools</loc><lastmod>2026-10-04</lastmod><priority>0.9</priority></url>
   <url><loc>https://nadocampus.co.kr/teachers</loc><lastmod>2026-10-04</lastmod><priority>0.9</priority></url>
   <url><loc>https://nadocampus.co.kr/online</loc><lastmod>2026-10-04</lastmod><priority>0.9</priority></url>
-  <url><loc>https://nadocampus.co.kr/blog</loc><lastmod>2026-10-16</lastmod><priority>0.9</priority></url>
+  <url><loc>https://nadocampus.co.kr/blog</loc><lastmod>2026-10-17</lastmod><priority>0.9</priority></url>
   <url><loc>https://nadocampus.co.kr/school/pohang-changpo-cho-english</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://nadocampus.co.kr/school/pohang-changpo-cho-korean</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://nadocampus.co.kr/school/pohang-changpo-cho-math</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
@@ -653,8 +653,10 @@
   <url><loc>https://nadocampus.co.kr/school/pohang-yuseongyeoja-go-science</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://nadocampus.co.kr/school/pohang-yuseongyeoja-go-social</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://nadocampus.co.kr/school/pohang-yuseongyeoja-go</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://nadocampus.co.kr/blog/pohang-2026-1017-jung-english</loc><lastmod>2026-10-16</lastmod><priority>0.7</priority></url>
-  <url><loc>https://nadocampus.co.kr/blog/pohang-2026-1017-daejam-math</loc><lastmod>2026-10-16</lastmod><priority>0.7</priority></url>
+  <url><loc>https://nadocampus.co.kr/blog/pohang-2026-1018-sangdae-korean</loc><lastmod>2026-10-17</lastmod><priority>0.7</priority></url>
+  <url><loc>https://nadocampus.co.kr/blog/pohang-2026-1018-cho-social</loc><lastmod>2026-10-17</lastmod><priority>0.7</priority></url>
+  <url><loc>https://nadocampus.co.kr/blog/pohang-2026-1017-jung-english</loc><lastmod>2026-10-17</lastmod><priority>0.7</priority></url>
+  <url><loc>https://nadocampus.co.kr/blog/pohang-2026-1017-daejam-math</loc><lastmod>2026-10-17</lastmod><priority>0.7</priority></url>
   <url><loc>https://nadocampus.co.kr/blog/pohang-2026-1016-yeonil-social</loc><lastmod>2026-10-16</lastmod><priority>0.7</priority></url>
   <url><loc>https://nadocampus.co.kr/blog/pohang-2026-1016-jung-korean</loc><lastmod>2026-10-16</lastmod><priority>0.7</priority></url>
   <url><loc>https://nadocampus.co.kr/blog/pohang-2026-1015-songdo-science</loc><lastmod>2026-10-15</lastmod><priority>0.7</priority></url>
